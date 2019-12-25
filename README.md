@@ -1,2 +1,0 @@
-# BoilerPlate
- Redux and other
